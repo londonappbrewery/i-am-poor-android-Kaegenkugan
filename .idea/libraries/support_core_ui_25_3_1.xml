@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="support-core-ui-25.3.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/res" />
+      <root url="jar://C:/Android/.android/build-cache/06ff4987889ae2bb52dc50989500efecba59e89c/output/jars/classes.jar!/" />
+      <root url="file://C:/Android/.android/build-cache/06ff4987889ae2bb52dc50989500efecba59e89c/output/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
